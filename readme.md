@@ -23,8 +23,8 @@ Comments and suggestions are welcome.
 * [Tasks]
 * [Metrics]
 * [Supervised Models]
-* [Preprocessing]
-* [OSS]
+* [Preprocessing](https://docs.google.com/spreadsheets/d/1NTqOdYUAI8tpsV7QgBr2aL2iexuA6XY3TY_igtBymhA/edit?usp=sharing)
+* [OSS](https://docs.google.com/spreadsheets/d/1owsjLUnBYqdQcKppCyMI9venIurvd6sJJ77yGl9iRHw/edit?usp=sharing)
 * [Datasets]
 
 # Publications
