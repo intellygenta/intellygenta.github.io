@@ -1,5 +1,4 @@
 # Biography
-* Genta Yoshimura
 
 ## Interests
 * Time Series Data Mining
@@ -10,7 +9,9 @@
 * Master of Informatics, Computer Science and Applied Mathematics, Kyoto University, 2013
 
 ## Contact
+* Genta Yoshimura
 * [twitter](https://twitter.com/intellygenta)
+* [GitHub](https://github.com/intellygenta)
 
 # Materials
 
