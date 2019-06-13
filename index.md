@@ -1,4 +1,3 @@
-# Genta Yoshimura
 I'm a researcher working on data mining and machine learning at Mitsubishi Electric Corporation.
 
 ## Interests
