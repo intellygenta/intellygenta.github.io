@@ -1,4 +1,5 @@
-# Biography
+# Genta Yoshimura
+I'm a researcher working on data mining and machine learning at Mitsubishi Electric Corporation.
 
 ## Interests
 * Time Series Data Mining
@@ -9,7 +10,6 @@
 * Master of Informatics, Computer Science and Applied Mathematics, Kyoto University, 2013
 
 ## Contact
-* Genta Yoshimura
 * [twitter](https://twitter.com/intellygenta)
 * [GitHub](https://github.com/intellygenta)
 
@@ -28,4 +28,5 @@ Comments and suggestions are welcome.
 * [Datasets]
 
 # Publications
-* Yoshimura, Genta, Atsunori Kanemura, and Hideki Asoh. "Reconstructable and Interpretable Representations for Time Series with Time-Skip Sparse Dictionary Learning." Proceedings of the on Thematic Workshops of ACM Multimedia 2017. ACM, 2017.
+* Yoshimura, Genta, Atsunori Kanemura, and Hideki Asoh. "Enumerating Hub Motifs in Time Series Based on the Matrix Profile." Proceedings of 5th SIGKDD Workshop on Mining and Learning from Time Series (KDD Workshop on MiLeTS’19), 2019.
+* Yoshimura, Genta, Atsunori Kanemura, and Hideki Asoh. "Reconstructable and Interpretable Representations for Time Series with Time-Skip Sparse Dictionary Learning." Proceedings of the Thematic Workshops of ACM Multimedia 2017. ACM, 2017.
