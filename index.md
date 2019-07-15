@@ -28,4 +28,5 @@ Comments and suggestions are welcome.
 
 # Publications
 * Yoshimura, Genta, Atsunori Kanemura, and Hideki Asoh. "Enumerating Hub Motifs in Time Series Based on the Matrix Profile." Proceedings of 5th SIGKDD Workshop on Mining and Learning from Time Series (KDD Workshop on MiLeTS’19), 2019.
+    * [Paper](https://milets19.github.io/papers/milets19_paper_5.pdf), Slide, Code
 * Yoshimura, Genta, Atsunori Kanemura, and Hideki Asoh. "Reconstructable and Interpretable Representations for Time Series with Time-Skip Sparse Dictionary Learning." Proceedings of the Thematic Workshops of ACM Multimedia 2017. ACM, 2017.
