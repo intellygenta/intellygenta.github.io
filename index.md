@@ -15,8 +15,6 @@ I'm a researcher working on data mining and machine learning at Mitsubishi Elect
 # Materials
 Comments and suggestions are welcome.
 
-## Docs
-
 ## Spreadsheets
 * [Data](https://docs.google.com/spreadsheets/d/1oETBfjLeDKrTrTAXhJUMuYnBb10IVLkZvNuR0zSF1fc/edit?usp=sharing)
 * [Tasks]
@@ -24,16 +22,13 @@ Comments and suggestions are welcome.
 * [Models](https://docs.google.com/spreadsheets/d/1HaDB_93kbDQAe_vSGqq612Pq85oIjs6U_HCbaKDVTuA/edit?usp=sharing)
 * [Preprocessing]
 
-## Notebooks
-
 ## Codes
 * [iparacoord](https://github.com/intellygenta/InteractiveParallelCoordinates)
     * Python code for interactive parallel coordinates visualization on jupyter notebook
 
 # Honors and Awards
 * [KDD Cup 2021: Multi-dataset Time Series Anomaly Detection](https://compete.hexagon-ml.com/practice/competition/39/) 5th place (Honorable mention)
-    * [Video](https://www.youtube.com/watch?v=J_Ebbql9jCo)
-    * [Code](https://github.com/intellygenta/KDDCup2021)
+    * [Video](https://www.youtube.com/watch?v=J_Ebbql9jCo), [Code](https://github.com/intellygenta/KDDCup2021)
 
 # Publications
 * Yoshimura, Genta, Atsunori Kanemura, and Hideki Asoh. "Enumerating Hub Motifs in Time Series Based on the Matrix Profile." Proceedings of 5th SIGKDD Workshop on Mining and Learning from Time Series (KDD Workshop on MiLeTS’19), 2019.
